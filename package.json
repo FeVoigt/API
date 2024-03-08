@@ -1,0 +1,27 @@
+{
+  "name": "api2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeVoigt/API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeVoigt/API/issues"
+  },
+  "homepage": "https://github.com/FeVoigt/API#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mysql2": "^3.9.2",
+    "mysql2-promise": "^0.1.4",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {}
+}
